@@ -1,4 +1,4 @@
-# 🧀 LiveFromWisco
+# LiveFromWisco
 
 **The official social app for Wisconsin cheese lovers!** 📱🧀
 
@@ -7,10 +7,10 @@ Connect with fellow cheese enthusiasts, share your favorite Wisconsin cheese dis
 ## 🚀 Get the App
 
 ### 📱 Download on Google Play
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.livefromwisco.app)
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.livefromwisco.app){: style="max-width: 200px; height: auto;" }
 
 ### 🌐 Visit Our Website
-**[livefromwisco.com](https://www.livefromwisco.com)**
+**[https://www.livefromwisco.com](https://www.livefromwisco.com)**
 
 Explore our features, learn more about the app, and join the Wisconsin cheese community!
 
@@ -33,18 +33,11 @@ Show your Wisconsin pride with our exclusive merchandise collection! From t-shir
 - 🍎 iOS (coming soon)
 - 🌐 Web (react-native-web)
 
-## 🏗 Architecture
-
-This is a monorepo using npm workspaces with Lerna:
-
-
 ## 📱 Social Media
 
-Follow us for the latest updates, cheese spotlights, and community highlights:
+Follow us for the latest updates, spotlights, and community highlights:
 
 - **Facebook**: [LiveFromWisco](https://facebook.com/livefromwisco)
-
-## 📄 License
 
 
 ## 🧀 Made with ❤️ in Wisconsin
